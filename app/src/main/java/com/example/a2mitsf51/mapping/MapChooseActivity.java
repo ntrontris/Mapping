@@ -6,8 +6,8 @@ import android.os.Bundle;
 /**
  * Created by 2mitsf51 on 16/02/2017.
  */
-public class MapChooseActivity {
-    package com.example.map; // or whatever it is in your case
+
+
 
     import android.app.Activity;
     import android.os.Bundle;
