@@ -32,7 +32,4 @@ public class SetLocationActivity extends AppCompatActivity implements View.OnCli
         double longitude = Double.parseDouble(longitudeEditText.getText().toString());
 
         //asseble our last lat long bundle
-        Bundle latlongBundle = new Bundle();
-        latlongBundle.putDouble ("com.a2mitsf51.latitude", latitude);
-        asdasdasd
-}
+        Bundle latlongBundle = new Bundle()
